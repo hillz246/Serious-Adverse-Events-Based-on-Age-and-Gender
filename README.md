@@ -1,4 +1,4 @@
-# Serious-Adverse-Events-Based-on-Age-and-Gender
+# Serious Adverse Events Based on Age and Gender
 Predicting Serious Adverse Events Based on Age and Gender (FAERS)
 🧠 Project Summary:
 "Predicting Serious Adverse Events Based on Age and Gender (FAERS)"
