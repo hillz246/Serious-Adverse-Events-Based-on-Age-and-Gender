@@ -63,7 +63,7 @@ While this doesn’t guarantee causality, it can guide further investigation (e.
 * OpenFDA API is sampled, not the entire FAERS database
 
 💡 8. How to Improve
-* Pull more records using &skip=100, &skip=200, etc.
+* Pull more records using &skip=100, &skip=500, etc.
 * Apply class balancing (e.g., class_weight="balanced" or SMOTE)
 * Add drug info and reaction descriptions as features
 * Train on hundreds or thousands of rows
