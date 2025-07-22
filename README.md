@@ -43,11 +43,13 @@ Interpretation:
 This tells us which features the model used most to make its decision:
 
 
-Feature    Importance
-female    ~34%
-age_group_adult    ~30%
-age_group_senior    ~20%
-age_group_elder    ~10%
+| Feature  | Importance |
+| ------------- | ------------- |
+| female  | ~34%  |
+| age_group_adult  | ~20%  |
+| age_group_senior  |  ~30%  |
+| age_group_elder  |  ~10%  |
+    
 
 Interpretation:
 * The model sees being female and being an adult as most predictive of whether an event is classified as serious.
