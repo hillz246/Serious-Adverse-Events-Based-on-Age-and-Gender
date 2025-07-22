@@ -41,6 +41,8 @@ Interpretation:
 
 📈 6. Feature Importance (Bar Chart)
 This tells us which features the model used most to make its decision:
+
+
 Feature    Importance
 female    ~34%
 age_group_adult    ~30%
